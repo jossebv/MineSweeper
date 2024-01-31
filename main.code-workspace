@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.ejs": "html",
+			"*.js": "javascript",
+			"raylib.h": "c",
+			"math.h": "c",
+			"blocks.h": "c",
+			"stdio.h": "c",
+			"*.m": "c",
+			"raymath.h": "c",
+			"gamecontroller.h": "c",
+			"boardcontroller.h": "c",
+			"cellview.h": "c"
+		}
+	}
+}
